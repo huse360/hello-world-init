@@ -3,7 +3,7 @@
 //  HelloWorld
 //
 //  Created by huse on 3/6/16.
-//  Copyright (c) 2016 satoruna. All rights reserved.
+//  Copyright (c) 2016 All rights reserved.
 //
 
 #include <stdio.h>
